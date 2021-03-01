@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /errors
+Disallow: /fonts
+Disallow: /img
+Disallow: /invoices
+Disallow: /fonts
+Disallow: /logs
+Disallow: /plugins
+Disallow: /shop
+Disallow: /slider
+Disallow: /uploads
+Disallow: /a
+Disallow: /css
+Disallow: /frontend
